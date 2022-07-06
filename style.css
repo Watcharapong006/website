@@ -23,8 +23,19 @@ footer {
 .mainpage {
       width: 1024px;
       margin: 0 auto;
-    }
+}
 
-.headname {
-    color:aqua;
+.headname1 {
+    color:rgb(0, 255, 255);
+    font-size: 30px;
+}
+
+.headname2 {
+  color:rgb(255, 255, 255)
+}
+
+.graphic {
+  background-image: url();
+  height: 320px;
+  padding: auto;
 }

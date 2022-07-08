@@ -49,3 +49,8 @@ footer {
   background-color: rgb(70, 230, 30);
   padding: 10px;
 }
+
+.img10{
+  width: 190px;
+  border-radius: 10px;
+}
